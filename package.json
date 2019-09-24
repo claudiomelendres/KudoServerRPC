@@ -1,0 +1,16 @@
+{
+  "name": "statscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "js-beautify": "^1.10.2",
+    "request": "^2.81.0"
+  }
+}
